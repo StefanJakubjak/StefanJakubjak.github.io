@@ -1,5 +1,3 @@
-Stefan Jakubjak
-
 Welcome to my official website! I’m Stefan Jakubjak, an Android app developer passionate about creating engaging, interactive, and fun mobile experiences. I specialize in building mobile games and apps that offer both functionality and entertainment.
 
 About Me
